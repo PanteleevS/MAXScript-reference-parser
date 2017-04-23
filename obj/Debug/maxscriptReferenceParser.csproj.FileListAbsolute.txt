@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\maxscriptReferenceParser\maxscriptReferenceParser\bin\Debug\maxscriptReferenceParser.exe
+c:\users\user\documents\visual studio 2015\Projects\maxscriptReferenceParser\maxscriptReferenceParser\bin\Debug\maxscriptReferenceParser.pdb
+c:\users\user\documents\visual studio 2015\Projects\maxscriptReferenceParser\maxscriptReferenceParser\bin\Debug\HtmlAgilityPack.dll
+c:\users\user\documents\visual studio 2015\Projects\maxscriptReferenceParser\maxscriptReferenceParser\bin\Debug\HtmlAgilityPack.pdb
+c:\users\user\documents\visual studio 2015\Projects\maxscriptReferenceParser\maxscriptReferenceParser\bin\Debug\HtmlAgilityPack.xml
+c:\users\user\documents\visual studio 2015\Projects\maxscriptReferenceParser\maxscriptReferenceParser\obj\Debug\maxscriptReferenceParser.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\maxscriptReferenceParser\maxscriptReferenceParser\obj\Debug\maxscriptReferenceParser.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\maxscriptReferenceParser\maxscriptReferenceParser\obj\Debug\maxscriptReferenceParser.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\maxscriptReferenceParser\maxscriptReferenceParser\obj\Debug\maxscriptReferenceParser.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\maxscriptReferenceParser\maxscriptReferenceParser\obj\Debug\maxscriptReferenceParser.exe
+c:\users\user\documents\visual studio 2015\Projects\maxscriptReferenceParser\maxscriptReferenceParser\obj\Debug\maxscriptReferenceParser.pdb
